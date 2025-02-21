@@ -1,4 +1,4 @@
-# Biological Sciences student
+# Curriculum Vitae
 
 ### Education
 Biology, B.Sc. - Federal University of Alagoas, Brazil
