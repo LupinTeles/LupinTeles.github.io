@@ -1,2 +1,2 @@
-# LupinTeles.github.io
+# LupinTeles
 Website
